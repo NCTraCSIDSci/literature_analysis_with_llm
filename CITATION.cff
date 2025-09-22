@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Literature Analysis with LLMs
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Josh
+    family-names: Fuchs
+    affiliation: University of North Carolina at Chapel Hill
+    orcid: 'https://orcid.org/0000-0003-2775-3304'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17179429
+repository-code: >-
+  https://github.com/NCTraCSIDSci/literature_analysis_with_llm
+license: MIT
